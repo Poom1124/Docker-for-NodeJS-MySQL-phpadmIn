@@ -1,0 +1,6 @@
+https://www.w3schools.com/nodejs/
+
+learning by doing from website above 
+Files format .js for nodejs compiler
+[Keep] - when we test completed and results is correct will be move to keep on Folder Exam_W3school
+[Run] - However if you need to run all of files for nodejs you can move files to under path NODE_MYSQL_PHPADMIN  
